@@ -28,8 +28,7 @@
   "license": "MIT",
   "extra": {
     "branch-alias": {
-      "dev-master": "3.3.x-dev",
-      "dev-bis-alpha": "3.3.x-dev"
+      "dev-master": "3.3.6-bis.1-dev"
     }
   },
   "replace": {
